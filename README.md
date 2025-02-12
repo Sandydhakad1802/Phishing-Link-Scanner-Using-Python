@@ -1,17 +1,10 @@
-# Python Phishing URL Detection
----
+# Phishing Link Scanner Using python
 
-### Demo Video: [https://youtu.be/9t4gbbrkfks](https://youtu.be/9t4gbbrkfks)
 
-**Python 3.11.9 _(Currently Using)_**
+**Python 3.13.6 _(Currently Using)_**
 
 
 ## How to Run?
-
-- Clone or download [python-phishing-url-detection](https://github.com/sannjayy/python-phishing-url-detection) 
-
-`git clone git@github.com:sannjayy/python-phishing-url-detection.git`
-
 
 - Create a virtual environment
 ```bash
@@ -72,18 +65,3 @@ python app.py
 
 Open http://127.0.0.1:5000 in your browser!
 
-
-
---- 
----
-
-- 🌏 [GitHub Repo](https://github.com/sannjayy/python-phishing-url-detection) 
-- 🌏 [Website](https://www.sanjaysikdar.dev) 
-- 📫 <me@sanjaysikdar.dev>
-- 📖 [read.sanjaysikdar.dev](https://read.sanjaysikdar.dev)
-- 📦 [pypi releases](https://pypi.org/user/sannjayy/) | [npm releases](https://www.npmjs.com/~sannjayy)
-
----
-
-[![](https://img.shields.io/github/followers/sannjayy?style=social)](https://github.com/sannjayy)  
-Developed with ❤️ by *[sanjaysikdar.dev](https://www.sanjaysikdar.dev)*.
